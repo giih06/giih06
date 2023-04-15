@@ -4,7 +4,6 @@
 <div/>
 
 <div style="display: inline_block"><br>
-  <a target="_blank" href="https://icons8.com/icon/13679/logo-java-coffee-cup">Logo Java Coffee Cup</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gi-JAVA" height="30" width="40" src="https://www.flaticon.com/br/icones-gratis/java">

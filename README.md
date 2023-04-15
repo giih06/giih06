@@ -1,6 +1,5 @@
 ### Olá, eu sou a Giovanna Federico, estudante de Engenharia de Software da UCSAL👋
 
-<!--
 
 <div>
 <href https://github.com/giih06/>
@@ -14,4 +13,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: ...
--->

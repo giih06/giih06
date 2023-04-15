@@ -9,3 +9,4 @@
 - 🌱 Estudando JAVA
 - 📫 E-mail: giovannamfederico@gmail.com
 - 😄 Pronomes: ela/dela
+- 🌴 Sou de salvador/BA

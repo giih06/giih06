@@ -1,4 +1,4 @@
-### Olá, eu sou a Giovanna Federico, estudante de Engenharia de Software👋
+### Olá, eu sou a Giovanna Federico, estudante de Engenharia de Software da UCSAL👋
 
 <!--
 **giih06/giih06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

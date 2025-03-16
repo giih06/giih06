@@ -1,4 +1,4 @@
-### Olá, eu sou a Giovanna Federico, estudante de Engenharia de Software da UCSAL👋
+### Olá, eu sou a Giovanna Federico👋
 <div>
 <a href="https://github.com/giih06"/>
 <div/>
